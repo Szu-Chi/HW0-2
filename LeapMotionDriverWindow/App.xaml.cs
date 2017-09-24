@@ -1,5 +1,12 @@
+
 ﻿//Funtion1 Comple
 //all 
+
+
+﻿//Function1 Comple
+
+﻿//Function3 update
+>>>>>>> Function1
 using System;
 using System.Collections.Generic;
 using System.Configuration;
