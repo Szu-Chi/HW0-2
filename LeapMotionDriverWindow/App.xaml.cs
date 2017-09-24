@@ -1,4 +1,4 @@
-﻿//Funtion1 Comple
+﻿//Function1 Comple
 using System;
 using System.Collections.Generic;
 using System.Configuration;
